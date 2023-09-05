@@ -1,14 +1,14 @@
 <?php 
 
-$websiteTitle = "AniKatsu"; // Website Name
+$websiteTitle = "fl-anime.com"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
-$websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
+$websiteLogo = $websiteUrl . "/files/images/logo.png"; // Logo
 $contactEmail = "xyz@gmail.com"; // Contact Email
 
 $version = "0.3";
 
 //Donate 
-$donate = "#";
+$donate = "https://www.buymeacoffee.com/flanime";
 
 // Socials 
 $telegram = "https://t.me/#"; // telegram
@@ -22,7 +22,7 @@ $disqus = "https://indianime.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://wordywelcomepostscript.shashankktiwari.repl.co"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://api.fantasylegend.de"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
